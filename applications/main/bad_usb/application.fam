@@ -2,7 +2,7 @@ App(
     appid="bad_kb",
     # Still called Bad KB for historic reasons
     # Code was renamed back to Bad USB for easier update merging
-    name="Bad KB",
+    name="Bad Tastatur",
     apptype=FlipperAppType.MENUEXTERNAL,
     entry_point="bad_usb_app",
     stack_size=2 * 1024,
